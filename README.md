@@ -5,7 +5,7 @@ This is a design and BOM for a 3D printed extractor fan for soldering.
 The STL files for the case, lid and hood are given. The hood is optional but may help prevent fumes escaping. I may create new hood variants. I printed them in PETG with a Prusa MK3S printer but they could be printed by any reasonable 3D printer in PLA, PETG or any other material in your cupboard.
 
 ## BOM
-Fan: [JZK 120x120x38mm DC 24V 2 pin brushless cooling fan 12cm, 0.18A, 3100 rpm, 12038 dual-ball bearing DC fan 120mm for ice machine, fan heater, cooler, PC case fan]([https://www.amazon.co.uk/dp/B0C69GDRW2?ref=ppx_yo2ov_dt_b_fed_asin_title)
+Fan: [JZK 120x120x38mm DC 24V 2 pin brushless cooling fan 12cm, 0.18A, 3100 rpm, 12038 dual-ball bearing DC fan 120mm for ice machine, fan heater, cooler, PC case fan](https://www.amazon.co.uk/dp/B0C69GDRW2?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 Filters: [Hakko A1001 Filters for The FA400 / 493 (Set of 5)](https://www.amazon.co.uk/dp/B004OCSCO6?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
