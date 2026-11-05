@@ -1,6 +1,6 @@
 # Extractor Fan
 This is a design and BOM for a 3D printed extractor fan for soldering.
-![extractor fan](extractor_photo_1.jpeg)
+![extractor fan](extractor_photo_3.jpeg)
 
 ## CAD 
 The STL files for the case, lid and hood are given. The hood is optional but may help prevent fumes escaping. I may create new hood variants. I printed them in PETG with a Prusa MK3S printer but they could be printed by any reasonable 3D printer in PLA, PETG or any other material in your cupboard.
